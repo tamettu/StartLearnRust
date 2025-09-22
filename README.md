@@ -1,2 +1,2 @@
 # StartLearnRust
-My Rust learning project (make  a ball can move)
+Day one learning Rust (make  a ball can move)
